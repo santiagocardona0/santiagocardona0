@@ -28,5 +28,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/studio-log?username=santiagocardona0&mode=light&v=2026-11-11" />
   <img src="https://www.gitskins.com/api/section/studio-log?username=santiagocardona0&mode=dark&v=2026-11-11" width="100%" alt="The last 26 weeks of contributions, the streak and the year" />
 </picture>
-
-<sub>Pixel Studio · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
